@@ -1,4 +1,4 @@
-# Why using cookies
+# Why use cookies
 
 - Prevent YouTube rate limiting (429 Error)
 - Capable of playing videos accessible through your account, including age-restricted, exclusive member, premium, private, and more.
